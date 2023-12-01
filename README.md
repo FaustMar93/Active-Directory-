@@ -22,6 +22,12 @@ Project consists of all the tools and guidance needed to set up and configure an
 <p align="center">
 Creating Users in Powershell: <br/>
 <img src="https://i.imgur.com/aMUzzdn.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DzPQkdV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QxpnT0G.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tFR84lX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bXn0q5F.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/galXYJL.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
 <br />
 </p>
 
